@@ -20,7 +20,7 @@
 
 ## Usage
 
-1. Download Repository folder or git clone https://github.com/Tristan296/LangchainGPT
+1. Download Repository folder
 2. run `python setup.py install` in terminal
 3. In `.env` file add your OPENAI api key: `OPENAI_API_KEY=your_key_here` 
 4. Open terminal and run `python3 main.py`
@@ -53,9 +53,6 @@ Feel free to fork this project, make some changes, and submit a pull request. Al
 
 - [ ] Integrate File system tools in MacOS
 - [ ] Create more AppleScripts
-
-## Acknowledgments:
-https://github.com/chidiwilliams/GPT-Automator
 
 
 ## License
